@@ -1,6 +1,6 @@
 # NLW eSports - Trilha Explorer
 
-![preview](./NLW2022ROCKECTSEAT/.github/preview.png)
+![preview](./assets/preview.png)
 
 > Trilha Explorer
 
